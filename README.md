@@ -21,8 +21,17 @@ I’m a **Junior Odoo Developer and Python Full Stack Developer** focused on bui
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muhammed-jabir&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" height="170" alt="Muhammed Jabir GitHub Statistics"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammed-jabir&theme=tokyonight&hide_border=true" height="170" alt="Muhammed Jabir GitHub Streak"/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=muhammed-jabir&show_icons=true&theme=tokyonight&hide_border=true"
+    alt="Muhammed Jabir GitHub Stats"
+    height="180"
+  />
+  
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=muhammed-jabir&theme=tokyonight&hide_border=true"
+    alt="Muhammed Jabir GitHub Streak"
+    height="180"
+  />
 </p>
 
 <p align="center">
