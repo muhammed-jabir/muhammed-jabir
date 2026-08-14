@@ -18,12 +18,12 @@ I’m a **Junior Odoo Developer and Python Full Stack Developer** focused on bui
 
 ---
 
-## 📊 GitHub Activity
+## 📊 GitHub Statistics
 
 <p align="center">
   <img 
     src="https://github-readme-stats.vercel.app/api?username=muhammed-jabir&show_icons=true&theme=tokyonight&hide_border=true"
-    alt="Muhammed Jabir GitHub Stats"
+    alt="Muhammed Jabir GitHub Statistics"
     height="180"
   />
   
@@ -35,7 +35,11 @@ I’m a **Junior Odoo Developer and Python Full Stack Developer** focused on bui
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=muhammed-jabir&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="Muhammed Jabir GitHub Contribution Graph"/>
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=muhammed-jabir&theme=tokyo-night&hide_border=true&area=true"
+    width="95%"
+    alt="Muhammed Jabir GitHub Contribution Graph"
+  />
 </p>
 
 ---
