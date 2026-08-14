@@ -142,7 +142,7 @@ Open to opportunities and collaborations involving:
 
 💼 **LinkedIn:** [muhammed-jabir-mt](https://www.linkedin.com/in/muhammed-jabir-mt/)
 
-🌐 **Portfolio:** [muhammed-jabir-portfolio.netlify.app](https://muhammed-jabir-portfolio.netlify.app/)
+🌐 **Portfolio:**[muhammed-jabir.github.io/jabir_portfolio/](https://muhammed-jabir.github.io/jabir_portfolio/)
 
 ---
 
