@@ -1,91 +1,73 @@
-# Hi, I'm Muhammed Jabir M T 👋
+# 👋 Hi, I'm Muhammed Jabir M T
 
-## Junior Odoo Developer | Python Full Stack Developer | ERP Enthusiast
+### Junior Odoo Developer · Python Full Stack Developer · ERP Enthusiast
 
-Building business applications and scalable web solutions using **Odoo, Python, Django, and React**.
+**Building scalable ERP solutions, business applications, and modern web experiences with Odoo, Python, Django & React.**
 
-[LinkedIn](https://www.linkedin.com/in/muhammed-jabir-mt/) • [GitHub](https://github.com/muhammed-jabir) • [Portfolio](https://muhammed-jabir-portfolio.netlify.app/)
+[LinkedIn](https://www.linkedin.com/in/muhammed-jabir-mt/) · [GitHub](https://github.com/muhammed-jabir) · [Portfolio](https://muhammed-jabir-portfolio.netlify.app/)
 
 ---
 
-## 👨‍💻 About Me
+## 📊 GitHub Activity
 
-I am a Junior Odoo Developer passionate about building customized ERP solutions and modern web applications.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=muhammed-jabir&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammed-jabir&theme=tokyonight&hide_border=true" height="170"/>
+</p>
 
-Currently working with:
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=muhammed-jabir&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
+</p>
 
-- 🏢 Odoo Framework & ERP Customization
-- 🐍 Python Backend Development
-- ⚛️ React.js Frontend Applications
-- 🌐 Django Web Development
-- 🗄️ Database Design & Optimization
+---
 
-I enjoy converting real-world business requirements into efficient software solutions with clean architecture and maintainable code.
+## 🚀 About Me
 
 ```python
-class Developer:
+class MuhammedJabir:
 
-    name = "Muhammed Jabir M T"
     role = "Junior Odoo Developer"
 
-    skills = [
-        "Odoo Development",
+    expertise = [
+        "Odoo ERP Development",
         "Python",
         "Django",
         "React.js",
-        "Database Design"
+        "PostgreSQL",
+        "Web Development"
     ]
 
-    current_focus = [
-        "Odoo Custom Modules",
+    focus = [
+        "Custom Odoo Modules",
         "ERP Solutions",
-        "Full Stack Development",
-        "Software Architecture"
+        "Business Automation",
+        "Full Stack Applications"
     ]
 
-    motto = "Build solutions that solve real problems"
+    goal = "Build software that solves real business problems."
 ```
 
 ---
 
-# 🚀 Featured Project
+## 🧩 Odoo Development
 
-## 🏥 Hospital Management System - Odoo 16
-
-A complete healthcare ERP solution developed using the **Odoo Framework**.
-
-### Features:
-
-✅ Patient Management  
-✅ Doctor Management  
-✅ Appointment Booking System  
-✅ Prescription Management  
-✅ Department Management  
-✅ Role-Based Access Control  
-✅ Website Appointment Portal  
-✅ Email Notifications  
-✅ Custom Dashboards  
-
-
-### Tech Stack:
-
-```
-Odoo 16
-Python
-PostgreSQL
-XML
-QWeb Templates
-OWL Framework
-JavaScript
-Bootstrap
-HTML/CSS
-```
+* Custom Module Development
+* Odoo ORM & Models
+* XML Views & QWeb
+* Website & Portal Development
+* Controllers & Routes
+* Access Rights & Security Groups
+* Email Templates & Notifications
+* Scheduled Actions
+* OWL Components
+* JavaScript Integration
+* Reports & Business Workflows
 
 ---
 
-# 🛠️ Technical Skills
+## 🛠️ Tech Stack
 
-## ERP & Backend Development
+### Backend & ERP
 
 <p>
 <img src="https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white"/>
@@ -94,8 +76,7 @@ HTML/CSS
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
 </p>
 
-
-## Frontend Development
+### Frontend
 
 <p>
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
@@ -105,94 +86,66 @@ HTML/CSS
 <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 </p>
 
-
-## Database
+### Database
 
 <p>
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
+### Tools
 
-## Odoo Development Skills
-
-```
-✔ Custom Module Development
-✔ Models & ORM
-✔ Views & XML Architecture
-✔ QWeb Reports
-✔ Website Templates
-✔ Controllers & Routes
-✔ Security Groups
-✔ Access Rights
-✔ Scheduled Actions
-✔ Email Templates
-✔ OWL Components
-✔ JavaScript Integration
-```
+<p>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+</p>
 
 ---
 
-# ⚙️ Tools & Technologies
+## 🏥 Featured Project
 
-```
-Git
-GitHub
-VS Code
-PyCharm
-Postman
-Linux
-Docker
-Maven
-REST APIs
-JSON
-```
+### Hospital Management System — Odoo 16
 
----
+A healthcare ERP system built with Odoo 16 for managing hospital operations.
 
-# 📚 Currently Learning
+**Features**
 
-🎯 Advanced Odoo Development  
-🎯 OWL Framework & Odoo Frontend  
-🎯 System Design Fundamentals  
-🎯 REST API Architecture  
-🎯 Cloud Deployment  
-🎯 Advanced React Patterns  
+* Patient & Doctor Management
+* Appointment Scheduling
+* Prescription Management
+* Department Management
+* Role-Based Access Control
+* Website Appointment Portal
+* Email Notifications
+* Custom Dashboards
 
+**Stack:** `Odoo 16` · `Python` · `PostgreSQL` · `XML` · `QWeb` · `OWL` · `JavaScript` · `Bootstrap`
 
 ---
 
-# 📊 GitHub Statistics
+## 🎯 Currently Exploring
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=muhammed-jabir&show_icons=true&theme=tokyonight)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=muhammed-jabir&theme=tokyonight)
-
+`Advanced Odoo` · `OWL` · `System Design` · `REST APIs` · `Cloud Deployment` · `Advanced React`
 
 ---
 
-# 🤝 Let's Connect
+## 🤝 Let's Connect
 
-I am interested in collaborating on:
+Open to opportunities and collaborations involving:
 
-🚀 Odoo ERP Projects  
-💡 Python Backend Applications  
-🌐 Full Stack Web Applications  
-🏢 Business Automation Solutions  
-🛠️ Open Source Projects  
+**Odoo ERP · Python · Full Stack Development · Business Automation · Open Source**
 
+📧 **Email:** [jabirmtmuhammed@gmail.com](mailto:jabirmtmuhammed@gmail.com)
 
----
+💼 **LinkedIn:** [muhammed-jabir-mt](https://www.linkedin.com/in/muhammed-jabir-mt/)
 
-# 📫 Contact
-
-LinkedIn: https://www.linkedin.com/in/muhammed-jabir-mt/ 
-Portfolio: https://muhammed-jabir-portfolio.netlify.app/  
-Email: jabirmtmuhammed@gmail.com 
-
+🌐 **Portfolio:** [muhammed-jabir-portfolio.netlify.app](https://muhammed-jabir-portfolio.netlify.app/)
 
 ---
 
-> "Great software is not just about writing code, it's about solving problems."
-
-⭐ If you find my projects useful, consider giving them a star!
+<p align="center">
+  <b>⚡ Build. Automate. Solve.</b>
+</p>
