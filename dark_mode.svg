@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="720" viewBox="0 0 1100 720" role="img" aria-label="Muhammed Jabir GitHub profile">
+  <rect width="1100" height="720" fill="#0d1117"/>
+  <rect x="20" y="20" width="1060" height="680" rx="14" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+
+  <style>
+    text {
+      font-family: "SFMono-Regular", "Cascadia Code", "Roboto Mono", Consolas, monospace;
+      font-size: 15px;
+      dominant-baseline: middle;
+    }
+    .art {
+      fill: #c9d1d9;
+      font-size: 14px;
+      font-weight: 500;
+    }
+    .user {
+      fill: #c9d1d9;
+      font-size: 17px;
+      font-weight: 700;
+    }
+    .muted {
+      fill: #8b949e;
+    }
+    .label {
+      fill: #ff9d00;
+      font-weight: 600;
+    }
+    .section {
+      fill: #c9d1d9;
+      font-weight: 700;
+    }
+  </style>
+
+  <line x1="42" y1="52" x2="478" y2="52" stroke="#30363d"/>
+  <line x1="505" y1="52" x2="1050" y2="52" stroke="#30363d"/>
+  <line x1="505" y1="610" x2="1050" y2="610" stroke="#30363d"/>
+
+  <text x="42" y="68" class="art">             .-=================-.</text><text x="42" y="86" class="art">          .-'                     '-.</text><text x="42" y="104" class="art">        .'      .-----------.        '.</text><text x="42" y="122" class="art">       /      .'   .---.     '.        \</text><text x="42" y="140" class="art">      /      /    /     \      \        \</text><text x="42" y="158" class="art">     ;      ;    |  o o  |      ;        ;</text><text x="42" y="176" class="art">     |      |    |   ^   |      |        |</text><text x="42" y="194" class="art">     |      |     \ '-' /       |        |</text><text x="42" y="212" class="art">     ;      ;      '---'        ;        ;</text><text x="42" y="230" class="art">      \      \       ___       /        /</text><text x="42" y="248" class="art">       \      '.   .'___'.   .'        /</text><text x="42" y="266" class="art">        '.      '-.\_____/.-'        .'</text><text x="42" y="284" class="art">          '-.                     .-'</text><text x="42" y="302" class="art">             '==================='</text><text x="42" y="320" class="art"></text><text x="42" y="338" class="art">          /=====================\</text><text x="42" y="356" class="art">         /   PYTHON  •  ODOO     \</text><text x="42" y="374" class="art">        /   REACT  •  AI  •  SQL  \</text><text x="42" y="392" class="art">       /____________________________\</text><text x="42" y="410" class="art"></text><text x="42" y="428" class="art">             [ BUILD / LEARN ]</text>
+  <text x="525" y="68" class="user">muhammed-jabir@developer</text><text x="525" y="91" class="muted">────────────────────────────────────────────</text><text x="525" y="114" class="label">OS          </text><text x="645" y="114" fill="#58a6ff">Windows 11</text><text x="525" y="137" class="label">Role        </text><text x="645" y="137" fill="#58a6ff">Odoo Developer & Full Stack Developer</text><text x="525" y="160" class="label">Experience  </text><text x="645" y="160" fill="#58a6ff">~1 year Odoo development</text><text x="525" y="183" class="label">IDE         </text><text x="645" y="183" fill="#58a6ff">VS Code</text><text x="525" y="229" class="label">Frontend    </text><text x="645" y="229" fill="#58a6ff">HTML, CSS, JavaScript, React, Vite</text><text x="525" y="252" class="label">Backend     </text><text x="645" y="252" fill="#58a6ff">Python, Odoo, FastAPI</text><text x="525" y="275" class="label">Database    </text><text x="645" y="275" fill="#58a6ff">PostgreSQL, SQL</text><text x="525" y="298" class="label">Tools       </text><text x="645" y="298" fill="#58a6ff">Git, GitHub, VS Code</text><text x="525" y="321" class="label">Focus       </text><text x="645" y="321" fill="#3fb950">AI / LLM / AI Security</text><text x="525" y="367" class="section">Projects</text><text x="525" y="390" class="label">Hospital    </text><text x="645" y="390" fill="#56d4dd">Odoo + Python + PostgreSQL</text><text x="525" y="413" class="label">EmBase Pro  </text><text x="645" y="413" fill="#56d4dd">Odoo + Website + PostgreSQL</text><text x="525" y="436" class="label">Mobile ERP  </text><text x="645" y="436" fill="#56d4dd">React + Vite + Supabase</text><text x="525" y="482" class="section">Career</text><text x="525" y="505" class="label">Current     </text><text x="645" y="505" fill="#58a6ff">Odoo Development</text><text x="525" y="528" class="label">Learning    </text><text x="645" y="528" fill="#58a6ff">AI / Machine Learning / LLM</text><text x="525" y="551" class="label">Target      </text><text x="645" y="551" fill="#3fb950">AI Security Engineering</text><text x="525" y="597" class="section">Contact</text><text x="525" y="620" class="label">GitHub      </text><text x="645" y="620" fill="#58a6ff">github.com/muhammed-jabir</text><text x="525" y="643" class="label">LinkedIn    </text><text x="645" y="643" fill="#58a6ff">linkedin.com/in/muhammed-jabir-mt</text><text x="525" y="689" class="section">Education</text><text x="525" y="712" class="label">Degree      </text><text x="645" y="712" fill="#58a6ff">BCA • University of Calicut</text>
+
+  <text x="42" y="674" fill="#8b949e">github.com/muhammed-jabir</text>
+  <text x="1050" y="674" text-anchor="end" fill="#3fb950">● open to learning & building</text>
+</svg>
